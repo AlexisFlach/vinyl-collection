@@ -176,7 +176,7 @@ Vår controller class kommer att förbli densamma, men repositoryt kan komma att
 
 Genom att skapa en interface för det repository vi kommer att använda så försäkrar vi oss om att sålänge repository implementerar interfacet så kommer applikationen fortsatt att fungera.
 
-**IMemRepository**
+**IVinylsRepository**
 
 ```
 public interface IVinylsRepository
